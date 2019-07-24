@@ -8,7 +8,7 @@ namespace GitTestConsoleProj
         {
             Console.WriteLine("Hello World!");
             int a;
-            int b;
+            int b,c;
         }
     }
 }
